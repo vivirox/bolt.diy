@@ -5,4 +5,4 @@ compatibility_date = "2024-07-01"
 pages_build_output_dir = "./build/client"
 send_metrics = false
 type = "pnpm"
-"install": "npm install -g pnpm@${PNPM_VERSION}"
+install = "npm install -g pnpm@${PNPM_VERSION}"
